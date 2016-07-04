@@ -1,6 +1,6 @@
 Digital System Design with VHDL (ET062G) 
 
-VHDL Range Measurement System <sub><sup>[Grade: A]</sup></sub>
+VHDL Range Measurement System
 
 
 - Digilent Basys 3 Artix-7 FPGA
